@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mab1994/NeoNavBar.git/static/css/main.db4cc4a5.chunk.css",
+    "main.js": "/mab1994/NeoNavBar.git/static/js/main.e26ddd3c.chunk.js",
+    "main.js.map": "/mab1994/NeoNavBar.git/static/js/main.e26ddd3c.chunk.js.map",
+    "runtime-main.js": "/mab1994/NeoNavBar.git/static/js/runtime-main.173271a3.js",
+    "runtime-main.js.map": "/mab1994/NeoNavBar.git/static/js/runtime-main.173271a3.js.map",
+    "static/js/2.4100831a.chunk.js": "/mab1994/NeoNavBar.git/static/js/2.4100831a.chunk.js",
+    "static/js/2.4100831a.chunk.js.map": "/mab1994/NeoNavBar.git/static/js/2.4100831a.chunk.js.map",
+    "index.html": "/mab1994/NeoNavBar.git/index.html",
+    "precache-manifest.73af7f90fc7f095c1e9f1c990d490302.js": "/mab1994/NeoNavBar.git/precache-manifest.73af7f90fc7f095c1e9f1c990d490302.js",
+    "service-worker.js": "/mab1994/NeoNavBar.git/service-worker.js",
+    "static/css/main.db4cc4a5.chunk.css.map": "/mab1994/NeoNavBar.git/static/css/main.db4cc4a5.chunk.css.map",
+    "static/js/2.4100831a.chunk.js.LICENSE.txt": "/mab1994/NeoNavBar.git/static/js/2.4100831a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.173271a3.js",
+    "static/js/2.4100831a.chunk.js",
+    "static/css/main.db4cc4a5.chunk.css",
+    "static/js/main.e26ddd3c.chunk.js"
+  ]
+}
