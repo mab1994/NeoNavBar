@@ -1,0 +1,82 @@
+.contStyle {
+    width: 45%;
+}
+
+.ulStyle {
+    list-style-type: none;
+    display: flex;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: space-evenly;
+    padding-top: 2%;
+
+}
+
+.divStyle {
+    background-color: #c8d0da00;
+    border-bottom: rgb(0, 55, 128);
+    border-top: rgba(0, 255, 128, 0);
+    border-left: rgba(70, 131, 180, 0);
+    border-right: rgba(0, 128, 128, 0);
+    border-width: 2px;
+    border-style: solid;
+    color: #000c1a;
+    padding-left: 2%;
+    padding-Top: 1%;
+    padding-bottom: 1%;
+    height: 5%;
+    
+  }
+
+ .subMenuStyle {
+     display: none;
+     padding: 3%;
+     margin: 0% 0%;
+     background-color: #cfdae600;
+     border-style: solid;
+     border-width: 2px;
+     border-bottom: teal;
+     border-top: rgba(0, 128, 128, 0);
+     border-left: rgba(0, 128, 128, 0);
+     border-right: rgba(0, 128, 128, 0);
+     position: absolute;
+     flex-direction: column;
+     justify-content: space-evenly;
+     overflow: hidden;
+     
+
+ }
+ 
+
+ .ulStyle:hover li {
+     display: inline-block;
+ }
+
+ li {
+     list-style-type: none;
+ }
+
+ .dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+ }
+
+ .main-menu:hover .subMenuStyle {
+     display: flex;
+ }
+
+ li:hover {
+     color: blue;
+ }
+
+ a {
+     color: #000c1a
+ }
+
+ a:hover {
+     color: blue;
+     text-decoration: none;
+ }
